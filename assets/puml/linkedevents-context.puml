@@ -1,0 +1,36 @@
+@startuml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
+
+Person(citizen, "Citizen\n(not authenticated)", "Person interested in event information")
+Person(citizen_auth, "Citizen\n(authenticated)", "How does this differ from not authenticated citizen?")
+Person(admin, "Creator", "Logged in user with sufficient permissions to manage events")
+
+System(linkedevents, "linkedevents")
+System_Ext(tunnistamo, "Tunnistamo", "City of Helsinki single sign-on service\n(api.hel.fi/sso)")
+
+Boundary(data_sources, "Data sources") {
+  System_Ext(yso, "YSO\nconcepts", "General Finnish ontology\n(finto.fi)")
+  System_Ext(helmet, "Helmet\nevents", "Helsinki Metropolitan Area Libraries\n(helmet.fi)")
+  System_Ext(espoo, "Espoo\nevents", "Espoo city events\n(espoo.fi)")
+  System_Ext(kulke, "kulke\nevents", "City of Helsinki Cultural center events\n(City of Helsinki internal network)")
+  System_Ext(tprek, "tprek\nlocations", "Location registry\n(www.hel.fi/palvelukarttaws)")
+  System_Ext(osoite, "osoite\naddresses of locations", "Address registry\n(hri.fi)")
+  System_Ext(add_helfi_topics, "Topics\ntopic keywords", "E.g. 'daycare and education' and 'housing and environment'\n(add_helfi_topics)")
+  System_Ext(add_helsinki_audience, "Helsinki audiences\naudience keywords", "Target audiences\ne.g. 'Elderly' and 'Immigrant'\n(add_helsinki_audience)")
+  System_Ext(import_organisations, "Helsinki organisations\ndivisions", "City of Helsinki organisation divisions'\n(import_organisations)")
+  System_Ext(geo_import, "geo_import\ndivision structure for places", "(geo_import)")
+}
+
+Rel(citizen, linkedevents, "Browse events and places")
+
+Rel(citizen_auth, linkedevents, "Browse and propose events and places")
+Rel(citizen_auth, tunnistamo, "Authenticates")
+
+Rel_L(linkedevents, tunnistamo, "Redirects users for authentication")
+
+Rel_U(admin, linkedevents, "Manage events and places")
+Rel_U(admin, tunnistamo, "Authenticates")
+
+Rel(linkedevents, data_sources, "Imports data\n(events, locations, users, etc.)")
+
+@enduml
