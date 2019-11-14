@@ -1,0 +1,38 @@
+@startuml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Container.puml
+
+Person(citizen, "Citizen\n(not authenticated)", "Person interested in event information")
+Person(admin, "Espoo official", "Employee of City of Espoo")
+
+System_Boundary(espooevents, "espooevents") {
+  Container(espooevents_ui, "espooevents-ui", "React, JavaScript", "SPA running on browser, served from S3")
+
+  Container(espooevents_proxy, "espooevents-proxy", "nginx", "Serve SPA bundle, /static and /media from S3, route\n/auth and /api to api-gateway")
+  Container(espooevents_apigw, "espooevents-api-gateway", "Node.js, TypeScript", "SAML authentication, routing to backend services")
+
+  ContainerDb(espooevents_s3, "espooevents-s3", "S3", "SPA bundle, /static and\n/media resources")
+
+  Container(espooevents_api, "espooevents-api", "Django, Python", "Aggregator, creator and publisher of event information")
+  ContainerDb(espooevents_db, "espooevents-db", "Postgres 10.8 AWS RDS")
+}
+
+System_Ext(data_sources, "Data Sources", "YSO\nHelmet\nEspoo\n...")
+System_Ext(espooad, "Espoo AD")
+
+Rel(citizen, espooevents_ui, "Uses\n[HTTPS]")
+
+Rel_R(admin, espooevents_ui, "Uses\n[HTTPS]")
+
+Rel_R(espooevents_ui, espooevents_proxy, "Uses\n[HTTPS]")
+Rel(espooevents_proxy, espooevents_s3, "Fetch resources\nindex.html\n/static\n/media\n[HTTP]")
+Rel(espooevents_proxy, espooevents_apigw, "/auth, /api\n[HTTP]")
+Rel(espooevents_apigw, espooevents_api, "/api\n[HTTP]")
+Rel_R(espooevents_api, espooevents_db, "Reads and writes\n[JDBC]")
+
+Rel_L(espooevents_apigw, espooad, "Redirects /auth\n[SAML]")
+
+Rel(espooevents_api, data_sources, "Imports data")
+
+Rel(admin, espooad, "Authenticates\n[SAML/HTTPS]")
+
+@enduml

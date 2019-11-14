@@ -1,0 +1,28 @@
+@startuml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
+
+Person(citizen, "Citizen\n(not authenticated)", "Person interested in event information")
+Person(admin, "Espoo official", "Employee of City of Espoo")
+
+System(espooevents, "espooevents")
+System_Ext(espooad, "Espoo AD authentication")
+
+Boundary(data_sources, "Data sources") {
+  System_Ext(yso, "YSO\nconcepts", "General Finnish ontology\n(finto.fi)")
+  System_Ext(helmet, "Helmet\nevents", "Helsinki Metropolitan Area Libraries\n(helmet.fi)")
+  System_Ext(espoo, "Espoo\nevents", "Espoo city events\n(espoo.fi)")
+  System_Ext(tprek, "tprek\nlocations", "Location registry\n(www.hel.fi/palvelukarttaws)")
+  System_Ext(osoite, "osoite\naddresses of locations", "Address registry\n(hri.fi)")
+  System_Ext(geo_import, "geo_import\ndivision structure for places", "(geo_import)")
+}
+
+Rel(citizen, espooevents, "Browse events and places")
+
+Rel_L(espooevents, espooad, "Redirects users for authentication")
+
+Rel_U(admin, espooevents, "Manage events and places")
+Rel_U(admin, espooad, "Authenticates")
+
+Rel(espooevents, data_sources, "Imports data\n(events, locations, users, etc.)")
+
+@enduml
