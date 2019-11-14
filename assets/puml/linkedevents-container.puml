@@ -1,0 +1,38 @@
+@startuml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Container.puml
+
+Person(citizen, "Citizen\n(not authenticated)", "Person interested in event information")
+Person(citizen_auth, "Citizen\n(authenticated)", "How does this differ from not authenticated citizen?")
+Person(admin, "Creator", "Logged in user with sufficient permissions to manage events")
+
+System_Boundary(linkedevents, "linkedevents") {
+  Container(linkedevents_ui, "linkedevents-ui", "React, JavaScript", "SPA running on browser, served from TODO")
+
+  Container(web_server, "web-server", "???", "Serves frontend SPA bundle, forwards /auth to auth-proxy")
+  Container(auth_proxy, "auth-proxy", "Node, JavaScript", "Manages OAuth2 using passport-helsinki")
+
+  Container(api_proxy, "api-proxy", "???", "Serve /static and /media from backend_web_server, forward /api to linkedevents-api")
+  Container(backend_web_server, "backend-web-server", "???", "Serve /static and /media")
+
+  Container(linkedevents_api, "linkedevents-api", "Django, Python", "Aggregator, creator and publisher of event information")
+}
+
+System_Ext(data_sources, "Data Sources", "YSO\nHelmet\nEspoo\n...")
+System_Ext(tunnistamo, "Tunnistamo", "City of Helsinki single sign-on service\n(api.hel.fi/sso)")
+
+Rel(citizen, linkedevents_ui, "Uses\n[HTTPS]")
+Rel(citizen_auth, linkedevents_ui, "Uses\n[HTTPS]")
+
+Rel(admin, linkedevents_ui, "Uses\n[HTTPS]")
+
+Rel(linkedevents_ui, web_server, "Auth and SPA resources\n[HTTPS]")
+Rel(web_server, auth_proxy, "/auth\n[HTTPS]")
+Rel(auth_proxy, tunnistamo, "Authentication\n[OAuth2]")
+
+Rel(linkedevents_ui, api_proxy, "Backend resources\n[HTTPS]")
+Rel(api_proxy, linkedevents_api, "/api\n[HTTPS]")
+Rel(api_proxy, backend_web_server, "/media and /static\n[HTTPS]")
+
+Rel(linkedevents_api, data_sources, "Imports data")
+
+@enduml
