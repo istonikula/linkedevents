@@ -8,8 +8,7 @@ Person(admin, "Creator")
 System_Boundary(linkedevents, "linkedevents") {
   Container(linkedevents_ui, "linkedevents-ui", "React, JavaScript", "SPA running on browser, served from <b>Ui Server</b>")
 
-  Container(ui_server, "Ui Server", "???", "Serve frontend SPA bundle, forward <b>/auth</b> to <b>Auth Proxy</b>")
-  Container(auth_proxy, "Auth Proxy", "Express, JavaScript", "Interact with <b>Tunnistamo</b> using\n<b>passport-helsinki</b>")
+  Container(ui_server, "UI Server", "Express, JavaScript", "Serve frontend SPA bundle\n\nInteract with <b>Tunnistamo</b> using\n<b>passport-helsinki</b>")
 
   Container(api_proxy, "Api Proxy", "???", "Serve <b>/static</b> and <b>/media</b> from <b>Backend Server</b>\n\nForward <b>/api</b>\nto <b>linkedevents-api</b>")
   Container(backend_server, "Backend Server", "???", "Serve <b>/static</b> and <b>/media</b>")
@@ -26,13 +25,14 @@ Rel(citizen_auth, linkedevents_ui, "Uses\n[HTTPS]")
 Rel(admin, linkedevents_ui, "Uses\n[HTTPS]")
 
 Rel(linkedevents_ui, ui_server, "Auth and SPA resources\n[HTTPS]")
-Rel(ui_server, auth_proxy, "/auth\n[HTTPS]")
-Rel(auth_proxy, tunnistamo, "Authentication\n[OAuth2]")
+Rel(ui_server, tunnistamo, "Authentication\n[OAuth2]")
 
 Rel(linkedevents_ui, api_proxy, "Backend resources\n[HTTPS]")
 Rel(api_proxy, linkedevents_api, "/api\n[HTTPS]")
 Rel(api_proxy, backend_server, "/media and /static\n[HTTPS]")
 
 Rel(linkedevents_api, data_sources, "Imports data")
+
+Lay_U(ui_server, api_proxy)
 
 @enduml

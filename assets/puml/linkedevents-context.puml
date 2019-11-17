@@ -2,8 +2,8 @@
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
 
 Person(citizen, "Citizen\n(not authenticated)", "Person interested in event information")
-Person(citizen_auth, "Citizen\n(authenticated)", "How does this differ from not authenticated citizen?")
-Person(admin, "Creator", "Logged in user with sufficient permissions to manage events")
+Person(citizen_auth, "Citizen\n(authenticated)", "User logged in via social auth provider, e.g. Google, Facebook, Yle\n\nIs this just a permission profile?")
+Person(admin, "Creator", "Helsinki Official\nlogged in via <b>Helsinki AD</b>\n\nHas permissions to manage events")
 
 System(linkedevents, "linkedevents")
 System_Ext(tunnistamo, "Tunnistamo", "City of Helsinki single sign-on service\n(api.hel.fi/sso)")
