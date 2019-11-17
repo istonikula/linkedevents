@@ -13,6 +13,8 @@ System_Boundary(linkedevents, "linkedevents") {
   Container(backend_server, "Backend Server", "???", "Serve <b>/static</b> and <b>/media</b>\n\nForward <b>/api</b>\nto <b>linkedevents-api</b>")
 
   Container(linkedevents_api, "linkedevents-api", "Django, Python", "Aggregator, creator and publisher of event information")
+  ContainerDb(linkedevents_db, "linkedevents-db", "Postgres 9.5")
+  Container(linkedevents_imports, "linkedevents-imports", "Django, Python", "Run daily using cron?!")
 }
 
 System_Ext(data_sources, "Data Sources", "YSO\nHelmet\nEspoo\n...")
@@ -24,13 +26,15 @@ Rel(citizen_auth, linkedevents_ui, "Uses\n[HTTPS]")
 Rel(admin, linkedevents_ui, "Uses\n[HTTPS]")
 
 Rel(linkedevents_ui, ui_server, "Auth and SPA resources\n[HTTPS]")
-Rel(ui_server, tunnistamo, "Authentication\n[OAuth2]")
+Rel_R(ui_server, tunnistamo, "Authentication\n[OAuth2]")
 
 Rel(linkedevents_ui, backend_server, "Backend resources\n[HTTPS]")
 Rel(backend_server, linkedevents_api, "/api\n[HTTPS]")
 
-Rel(linkedevents_api, data_sources, "Imports data")
+Rel(linkedevents_api, linkedevents_db, "Reads and writes\n[psycopg2]")
+Rel(linkedevents_imports, linkedevents_db, "Reads nd Writes\n[psycopg2]")
+Rel_R(linkedevents_imports, data_sources, "Imports data")
 
-Lay_U(ui_server, backend_server)
+Lay_R(backend_server, ui_server)
 
 @enduml
