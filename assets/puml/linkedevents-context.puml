@@ -1,4 +1,4 @@
-@startuml
+@startuml linkedevents-context
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
 
 Person(citizen, "Citizen\n(not authenticated)", "Person interested in event information")

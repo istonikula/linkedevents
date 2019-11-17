@@ -1,4 +1,4 @@
-@startuml
+@startuml linkedevents-container
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Container.puml
 
 Person(citizen, "Citizen\n(not authenticated)")

@@ -1,4 +1,4 @@
-@startuml
+@startuml espooevents-container
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Container.puml
 
 Person(citizen, "Citizen\n(not authenticated)", "Person interested in event information")
