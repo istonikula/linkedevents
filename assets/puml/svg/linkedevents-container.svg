@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1187px" preserveAspectRatio="none" style="width:855px;height:1187px;" version="1.1" viewBox="0 0 855 1187" width="855px" zoomAndPan="magnify"><defs/><g><!--cluster linkedevents--><rect fill="#FFFFFF" height="1030" style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="453" x="35.5" y="146"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="220.5" y="160.9951">«boundary»</text><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="113" x="205.5" y="179.1484">linkedevents</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="231" y="194.0605">[System]</text><!--entity linkedevents_ui--><rect fill="#438DD5" height="115.4531" style="stroke: #3C7FC0; stroke-width: 1.5;" width="194" x="160.5" y="205"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="220.5" y="226.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="135" x="190" y="243.8203">linkedevents-ui</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="200" y="258.7324">[React, JavaScript]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="259.5" y="274.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="170" x="170.5" y="290.8545">SPA running on browser,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="82" x="178" y="307.1514">served from</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="73" x="264" y="307.1514">Ui Server</text><!--entity ui_server--><rect fill="#438DD5" height="164.3438" style="stroke: #3C7FC0; stroke-width: 1.5;" width="205" x="276" y="488"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="341.5" y="509.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="83" x="337" y="526.8203">UI Server</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="128" x="314.5" y="541.7324">[Express, JavaScript]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="380.5" y="557.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="286" y="573.8545">Serve frontend SPA bundle</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="380.5" y="590.1514"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="286.5" y="606.4482">Interact with</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="92" x="374.5" y="606.4482">Tunnistamo</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="470.5" y="606.4482"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="359.5" y="622.7451">using</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="136" x="310.5" y="639.042">passport-helsinki</text><!--entity backend_server--><rect fill="#438DD5" height="148.0469" style="stroke: #3C7FC0; stroke-width: 1.5;" width="197" x="44" y="496"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="105.5" y="517.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="72" y="534.8203">Backend Server</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="43" x="121" y="549.7324">[nginx]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="144.5" y="565.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="39" x="54" y="581.8545">Serve</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="97" y="581.8545">/static</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="26" x="149" y="581.8545">and</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="179" y="581.8545">/media</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="144.5" y="598.1514"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="55" x="99" y="614.4482">Forward</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="28" x="158" y="614.4482">/api</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="14" x="68.5" y="630.7451">to</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="86.5" y="630.7451">linkedevents-api</text><!--entity linkedevents_api--><rect fill="#438DD5" height="131.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="188" x="48.5" y="806"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="105.5" y="827.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="145" x="70" y="844.8203">linkedevents-api</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="90" y="859.7324">[Django, Python]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="144.5" y="875.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="164" x="58.5" y="891.8545">Aggregator, creator and</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="124" x="78.5" y="908.1514">publisher of event</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="104" y="924.4482">information</text><!--entity linkedevents_db--><path d="M168.5,1102 C168.5,1092 249.5,1092 249.5,1092 C249.5,1092 330.5,1092 330.5,1102 L330.5,1157.5625 C330.5,1167.5625 249.5,1167.5625 249.5,1167.5625 C249.5,1167.5625 168.5,1167.5625 168.5,1157.5625 L168.5,1102 " fill="#438DD5" style="stroke: #3C7FC0; stroke-width: 1.5;"/><path d="M168.5,1102 C168.5,1112 249.5,1112 249.5,1112 C249.5,1112 330.5,1112 330.5,1102 " fill="none" style="stroke: #3C7FC0; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="212.5" y="1127.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="142" x="178.5" y="1144.8203">linkedevents-db</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="90" x="204.5" y="1159.7324">[Postgres 9.5]</text><!--entity linkedevents_imports--><rect fill="#438DD5" height="99.1563" style="stroke: #3C7FC0; stroke-width: 1.5;" width="208" x="271.5" y="822.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="338.5" y="843.6387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="188" x="281.5" y="861.3203">linkedevents-imports</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="323" y="876.2324">[Django, Python]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="377.5" y="892.0576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="300" y="908.3545">Run daily using cron?!</text><!--entity citizen--><rect fill="#08427B" height="68.8906" style="stroke: #073B6F; stroke-width: 1.5;" width="153" x="6" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="53.5" y="29.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="53" y="46.8203">Citizen</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="133" x="16" y="63.5889">(not authenticated)</text><!--entity citizen_auth--><rect fill="#08427B" height="68.8906" style="stroke: #073B6F; stroke-width: 1.5;" width="126" x="194.5" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="228.5" y="29.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="228" y="46.8203">Citizen</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="204.5" y="63.5889">(authenticated)</text><!--entity admin--><rect fill="#08427B" height="52.5938" style="stroke: #073B6F; stroke-width: 1.5;" width="88" x="355.5" y="16"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="370.5" y="37.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="68" x="365.5" y="54.8203">Creator</text><!--entity data_sources--><rect fill="#999999" height="134.0781" style="stroke: #8A8A8A; stroke-width: 1.5;" width="139" x="612" y="805"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="624" y="826.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="622" y="843.8203">Data Sources</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="683.5" y="860.5889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="29" x="667" y="876.8857">YSO</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="657" y="893.1826">Helmet</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="659.5" y="909.4795">Espoo</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="12" x="675.5" y="925.7764">...</text><!--entity tunnistamo--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="220" x="624.5" y="511"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="677" y="532.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="103" x="683" y="549.8203">Tunnistamo</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="736.5" y="566.5889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="634.5" y="582.8857">City of Helsinki single sign-on</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="710" y="599.1826">service</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="686.5" y="615.4795">(api.hel.fi/sso)</text><!--link citizen to linkedevents_ui--><path d="M110.2293,77.3597 C136.4522,110.3256 176.3945,160.5388 208.0692,200.3584 " fill="none" id="citizen-&gt;linkedevents_ui" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="211.4976,204.6684,209.0251,195.1349,208.3849,200.7554,202.7644,200.1152,211.4976,204.6684" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="162.5" y="120.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="155.5" y="134.2715">[HTTPS]</text><!--link citizen_auth to linkedevents_ui--><path d="M257.5,77.3597 C257.5,110.0587 257.5,159.7267 257.5,199.3891 " fill="none" id="citizen_auth-&gt;linkedevents_ui" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="257.5,204.6684,261.5,195.6684,257.5,199.6684,253.5,195.6684,257.5,204.6684" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="265.5" y="120.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="258.5" y="134.2715">[HTTPS]</text><!--link admin to linkedevents_ui--><path d="M382.3715,69.0371 C361.476,101.4105 325.4786,157.1811 297.4861,200.5497 " fill="none" id="admin-&gt;linkedevents_ui" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="294.6313,204.9726,302.8728,199.5802,297.3428,200.7717,296.1513,195.2417,294.6313,204.9726" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="365.5" y="120.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="358.5" y="134.2715">[HTTPS]</text><!--link linkedevents_ui to ui_server--><path d="M296.4691,320.15 C307.9635,338.963 319.7839,360.3391 328.5,381 C342.0872,413.2075 352.8345,450.0901 360.8278,482.6734 " fill="none" id="linkedevents_ui-&gt;ui_server" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="362.087,487.8645,363.8526,478.1752,360.9083,483.0054,356.0781,480.0611,362.087,487.8645" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="101" x="345.5" y="394.0669">Auth and SPA</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="362.5" y="409.1997">resources</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="374" y="423.4043">[HTTPS]</text><!--link ui_server to tunnistamo--><path d="M481.47,570 C524.5755,570 574.8665,570 619.2058,570 " fill="none" id="ui_server-&gt;tunnistamo" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="624.305,570,615.305,566,619.305,570,615.305,574,624.305,570" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="107" x="499.25" y="549.0669">Authentication</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="56" x="524.75" y="563.2715">[OAuth2]</text><!--link linkedevents_ui to backend_server--><path d="M214.5348,320.1468 C202.318,338.7857 190.0299,360.0634 181.5,381 C167.343,415.7484 158.1087,456.2648 152.1994,490.8524 " fill="none" id="linkedevents_ui-&gt;backend_server" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="151.3515,495.9111,156.7843,487.6962,152.1781,490.9799,148.8944,486.3737,151.3515,495.9111" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="182.5" y="401.5669">Backend resources</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="228.5" y="415.7715">[HTTPS]</text><!--link backend_server to linkedevents_api--><path d="M142.5,644.2643 C142.5,692.0361 142.5,753.7639 142.5,800.9011 " fill="none" id="backend_server-&gt;linkedevents_api" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="142.5,805.9942,146.5,796.9942,142.5,800.9942,138.5,796.9942,142.5,805.9942" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="28" x="154" y="726.0669">/api</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="143.5" y="740.2715">[HTTPS]</text><!--link linkedevents_api to linkedevents_db--><path d="M151.3762,938.1041 C156.8379,967.4309 165.3886,1001.8289 178.5,1031 C187.4527,1050.9186 200.7332,1070.8741 213.3941,1087.5966 " fill="none" id="linkedevents_api-&gt;linkedevents_db" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="216.5967,1091.7765,214.2981,1082.1996,213.5557,1087.8076,207.9478,1087.0652,216.5967,1091.7765" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="179.5" y="1013.0669">Reads and writes</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="209" y="1027.2715">[psycopg2]</text><!--link linkedevents_imports to linkedevents_db--><path d="M358.9975,921.8318 C347.7208,953.7469 331.5812,995.654 313.5,1031 C303.7045,1050.1487 291.1657,1070.2598 279.7868,1087.316 " fill="none" id="linkedevents_imports-&gt;linkedevents_db" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="276.9212,1091.5841,285.2589,1086.3418,279.7083,1087.433,278.6171,1081.8824,276.9212,1091.5841" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="122" x="328.5" y="1013.0669">Reads nd Writes</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="354.5" y="1027.2715">[psycopg2]</text><!--link linkedevents_imports to data_sources--><path d="M479.5246,872 C521.3104,872 568.5446,872 606.8229,872 " fill="none" id="linkedevents_imports-&gt;data_sources" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="611.9233,872,602.9233,868,606.9233,872,602.9233,876,611.9233,872" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="96" x="497.75" y="865.0669">Imports data</text><!--link backend_server to ui_server--><!--
+@startuml linkedevents-container
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+rectangle "==Citizen\n(not authenticated)" <<person>> as citizen
+rectangle "==Citizen\n(authenticated)" <<person>> as citizen_auth
+rectangle "==Creator" <<person>> as admin
+
+rectangle "==linkedevents\n<size:12>[System]</size>" <<boundary>> as linkedevents {
+  rectangle "==linkedevents-ui\n//<size:12>[React, JavaScript]</size>//\n\n SPA running on browser, served from <b>Ui Server</b>" <<container>> as linkedevents_ui
+
+  rectangle "==UI Server\n//<size:12>[Express, JavaScript]</size>//\n\n Serve frontend SPA bundle\n\nInteract with <b>Tunnistamo</b> using\n<b>passport-helsinki</b>" <<container>> as ui_server
+
+  rectangle "==Backend Server\n//<size:12>[nginx]</size>//\n\n Serve <b>/static</b> and <b>/media</b>\n\nForward <b>/api</b>\nto <b>linkedevents-api</b>" <<container>> as backend_server
+
+  rectangle "==linkedevents-api\n//<size:12>[Django, Python]</size>//\n\n Aggregator, creator and publisher of event information" <<container>> as linkedevents_api
+  database "==linkedevents-db\n//<size:12>[Postgres 9.5]</size>//" <<container>> as linkedevents_db
+  rectangle "==linkedevents-imports\n//<size:12>[Django, Python]</size>//\n\n Run daily using cron?!" <<container>> as linkedevents_imports
+}
+
+rectangle "==Data Sources\n\n YSO\nHelmet\nEspoo\n..." <<external_system>> as data_sources
+rectangle "==Tunnistamo\n\n City of Helsinki single sign-on service\n(api.hel.fi/sso)" <<external_system>> as tunnistamo
+
+citizen - -> linkedevents_ui : "===Uses\n[HTTPS]"
+citizen_auth - -> linkedevents_ui : "===Uses\n[HTTPS]"
+
+admin - -> linkedevents_ui : "===Uses\n[HTTPS]"
+
+linkedevents_ui - -> ui_server : "===Auth and SPA resources\n[HTTPS]"
+ui_server -RIGHT-> tunnistamo : "===Authentication\n[OAuth2]"
+
+linkedevents_ui - -> backend_server : "===Backend resources\n[HTTPS]"
+backend_server - -> linkedevents_api : "===/api\n[HTTPS]"
+
+linkedevents_api - -> linkedevents_db : "===Reads and writes\n[psycopg2]"
+linkedevents_imports - -> linkedevents_db : "===Reads nd Writes\n[psycopg2]"
+linkedevents_imports -RIGHT-> data_sources : "===Imports data"
+
+backend_server -[hidden]R- ui_server
+
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 19:19:51 EEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_231-b11
+Operating System: Linux
+OS Version: 5.3.0-23-generic
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

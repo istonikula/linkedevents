@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1243px" preserveAspectRatio="none" style="width:1412px;height:1243px;" version="1.1" viewBox="0 0 1412 1243" width="1412px" zoomAndPan="magnify"><defs/><g><!--cluster data_sources--><rect fill="#FFFFFF" height="733" style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="934" x="467" y="499"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="892.5" y="513.9951">«boundary»</text><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="875" y="532.1484">Data sources</text><!--entity yso--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="191" x="510.5" y="560"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="548.5" y="581.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="37" x="587.5" y="598.8203">YSO</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="573.5" y="615.5889">concepts</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="608" y="631.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="171" x="520.5" y="648.1826">General Finnish ontology</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51" x="580.5" y="664.4795">(finto.fi)</text><!--entity helmet--><rect fill="#999999" height="134.0781" style="stroke: #8A8A8A; stroke-width: 1.5;" width="202" x="737" y="552"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="780.5" y="573.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="807" y="590.8203">Helmet</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="814.5" y="607.5889">events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="840" y="623.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="178" x="747" y="640.1826">Helsinki Metropolitan Area</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="809.5" y="656.4795">Libraries</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="69" x="803.5" y="672.7764">(helmet.fi)</text><!--entity espoo--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="142" x="974" y="560"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="987.5" y="581.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="1018.5" y="598.8203">Espoo</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="1021.5" y="615.5889">events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1047" y="631.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="122" x="984" y="648.1826">Espoo city events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="1012.5" y="664.4795">(espoo.fi)</text><!--entity kulke--><rect fill="#999999" height="150.375" style="stroke: #8A8A8A; stroke-width: 1.5;" width="183" x="1151.5" y="544"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="1185.5" y="565.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="1219" y="582.8203">kulke</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="1219.5" y="599.5889">events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1245" y="615.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="155" x="1163.5" y="632.1826">City of Helsinki Cultural</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="1195" y="648.4795">center events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="159" x="1161.5" y="664.7764">(City of Helsinki internal</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="1212.5" y="681.0732">network)</text><!--entity tprek--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="210" x="475" y="833"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="522.5" y="854.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="49" x="555.5" y="871.8203">tprek</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="62" x="549" y="888.5889">locations</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="582" y="904.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="113" x="523.5" y="921.1826">Location registry</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="190" x="485" y="937.4795">(www.hel.fi/palvelukarttaws)</text><!--entity osoite--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="176" x="720" y="833"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="750.5" y="854.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="55" x="780.5" y="871.8203">osoite</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="156" x="730" y="888.5889">addresses of locations</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="810" y="904.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="752" y="921.1826">Address registry</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="789" y="937.4795">(hri.fi)</text><!--entity add_helfi_topics--><rect fill="#999999" height="150.375" style="stroke: #8A8A8A; stroke-width: 1.5;" width="217" x="931.5" y="817"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="982.5" y="838.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="57" x="1011.5" y="855.8203">Topics</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="104" x="988" y="872.5889">topic keywords</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1042" y="888.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="193" x="941.5" y="905.1826">E.g. 'daycare and education'</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="119" x="978.5" y="921.4795">and 'housing and</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="90" x="995" y="937.7764">environment'</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="120" x="980" y="954.0732">(add_helfi_topics)</text><!--entity add_helsinki_audience--><rect fill="#999999" height="134.0781" style="stroke: #8A8A8A; stroke-width: 1.5;" width="209" x="1183.5" y="825"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="1230.5" y="846.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="162" x="1207" y="863.8203">Helsinki audiences</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="134" x="1221" y="880.5889">audience keywords</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1290" y="896.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="121" x="1227.5" y="913.1826">Target audiences</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="189" x="1193.5" y="929.4795">e.g. 'Elderly' and 'Immigrant'</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="166" x="1205" y="945.7764">(add_helsinki_audience)</text><!--entity import_organisations--><rect fill="#999999" height="134.0781" style="stroke: #8A8A8A; stroke-width: 1.5;" width="212" x="475" y="1090"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="523.5" y="1111.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="192" x="485" y="1128.8203">Helsinki organisations</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="59" x="551.5" y="1145.5889">divisions</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="583" y="1161.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="188" x="485" y="1178.1826">City of Helsinki organisation</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="62" x="550" y="1194.4795">divisions'</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="154" x="504" y="1210.7764">(import_organisations)</text><!--entity geo_import--><rect fill="#999999" height="101.4844" style="stroke: #8A8A8A; stroke-width: 1.5;" width="209" x="722.5" y="1106.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="769.5" y="1127.6387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="99" x="777.5" y="1145.3203">geo_import</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="189" x="732.5" y="1162.0889">division structure for places</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="829" y="1178.3857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="88" x="783" y="1194.6826">(geo_import)</text><!--entity citizen--><rect fill="#08427B" height="117.7813" style="stroke: #073B6F; stroke-width: 1.5;" width="207" x="371.5" y="40.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="446" y="61.6387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="445.5" y="79.3203">Citizen</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="133" x="408.5" y="96.0889">(not authenticated)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="477" y="112.3857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="183" x="381.5" y="128.6826">Person interested in event</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="436.5" y="144.9795">information</text><!--entity citizen_auth--><rect fill="#08427B" height="182.9688" style="stroke: #073B6F; stroke-width: 1.5;" width="220" x="74" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="155" y="29.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="154.5" y="46.8203">Citizen</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="131" y="63.5889">(authenticated)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="186" y="79.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="84" y="96.1826">User logged in via social auth</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="148" x="108" y="112.4795">provider, e.g. Google,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="97" x="135.5" y="128.7764">Facebook, Yle</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="186" y="145.0732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="101.5" y="161.3701">Is this just a permission</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="159.5" y="177.667">profile?</text><!--entity admin--><rect fill="#08427B" height="150.375" style="stroke: #073B6F; stroke-width: 1.5;" width="216" x="100" y="544"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="179" y="565.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="68" x="174" y="582.8203">Creator</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="210" y="599.5889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="101" x="157.5" y="615.8857">Helsinki Official</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="86" x="119" y="632.1826">logged in via</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="88" x="209" y="632.1826">Helsinki AD</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="210" y="648.4795"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="192" x="110" y="664.7764">Has permissions to manage</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="184.5" y="681.0732">events</text><!--entity linkedevents--><rect fill="#1168BD" height="52.5938" style="stroke: #3C7FC0; stroke-width: 1.5;" width="133" x="408.5" y="330.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="446" y="351.6387">«system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="113" x="418.5" y="369.3203">linkedevents</text><!--entity tunnistamo--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="220" x="6" y="298"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="58.5" y="319.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="103" x="64.5" y="336.8203">Tunnistamo</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="118" y="353.5889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="16" y="369.8857">City of Helsinki single sign-on</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="91.5" y="386.1826">service</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="68" y="402.4795">(api.hel.fi/sso)</text><!--link citizen to linkedevents--><path d="M475,158.5757 C475,210.4064 475,283.7948 475,325.2539 " fill="none" id="citizen-&gt;linkedevents" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="475,330.394,479,321.394,475,325.394,471,321.394,475,330.394" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="476" y="241.5669">Browse events and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="525" y="256.6997">places</text><!--link citizen_auth to linkedevents--><path d="M246.0788,191.3464 C266.7115,217.9811 291.0906,245.8292 317,268 C345.0419,291.9956 380.5333,312.6776 410.7715,328.0491 " fill="none" id="citizen_auth-&gt;linkedevents" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="415.5775,330.4703,409.3395,322.8488,411.1121,328.2208,405.7402,329.9934,415.5775,330.4703" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="87" x="346" y="234.0669">Browse and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="148" x="318" y="249.1997">propose events and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="368" y="264.3325">places</text><!--link citizen_auth to tunnistamo--><path d="M141.5575,191.0619 C137.9207,201.0281 134.6323,211.1349 132,221 C125.8745,243.9568 122.0932,269.7168 119.7593,292.5924 " fill="none" id="citizen_auth-&gt;tunnistamo" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="119.2543,297.7307,124.1156,289.1652,119.7434,292.7547,116.1539,288.3826,119.2543,297.7307" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="133" y="249.0669">Authenticates</text><!--reverse link tunnistamo to linkedevents--><path d="M231.4171,357 C289.8962,357 358.8209,357 408.4006,357 " fill="none" id="tunnistamo&lt;-linkedevents" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="226.1516,357,235.1516,361,231.1516,357,235.1516,353,226.1516,357" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="244.25" y="335.0669">Redirects users for</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="106" x="264.25" y="350.1997">authentication</text><!--reverse link linkedevents to admin--><path d="M408.3457,386.0319 C378.7607,401.0655 344.8662,421.4452 319,446 C289.6251,473.8856 264.4785,511.0507 245.585,543.7856 " fill="none" id="linkedevents&lt;-admin" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="413.055,383.6651,403.2172,384.1326,408.5875,385.9104,406.8097,391.2806,413.055,383.6651" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="146" x="320" y="465.5669">Manage events and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="369" y="480.6997">places</text><!--reverse link tunnistamo to admin--><path d="M118.8635,421.2583 C121.2407,443.7625 125.4827,468.9168 133,491 C139.1004,508.9208 147.8802,527.1024 157.298,543.9178 " fill="none" id="tunnistamo&lt;-admin" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="118.3556,416.2003,115.2751,425.555,118.8553,421.1753,123.2351,424.7555,118.3556,416.2003" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="134" y="473.0669">Authenticates</text><!--link linkedevents to data_sources--><path d="M475,383.5638 C475,399.6954 475,421.8228 475,446.0954 C475,458.2318 475,470.9044 475,483.6321 C475,486.8141 475,489.9994 475,493.1807 C475,494.7714 475,496.361 475,497.9487 " fill="none" id="linkedevents-&gt;data_sources" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="475,497.9487,479,488.9487,475,492.9487,471,488.9487,475,497.9487" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="96" x="488" y="459.0669">Imports data</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="116" x="476" y="473.2715">(events, locations,</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="72" x="500" y="487.2402">users, etc.)</text><!--link yso to helmet--><!--link helmet to espoo--><!--link espoo to kulke--><!--link yso to tprek--><!--link tprek to osoite--><!--link osoite to add_helfi_topics--><!--link add_helfi_topics to add_helsinki_audience--><!--link tprek to import_organisations--><!--link import_organisations to geo_import--><!--
+@startuml linkedevents-context
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+rectangle "==Citizen\n(not authenticated)\n\n Person interested in event information" <<person>> as citizen
+rectangle "==Citizen\n(authenticated)\n\n User logged in via social auth provider, e.g. Google, Facebook, Yle\n\nIs this just a permission profile?" <<person>> as citizen_auth
+rectangle "==Creator\n\n Helsinki Official\nlogged in via <b>Helsinki AD</b>\n\nHas permissions to manage events" <<person>> as admin
+
+rectangle "==linkedevents" <<system>> as linkedevents
+rectangle "==Tunnistamo\n\n City of Helsinki single sign-on service\n(api.hel.fi/sso)" <<external_system>> as tunnistamo
+
+rectangle "==Data sources" <<boundary>> as data_sources {
+  rectangle "==YSO\nconcepts\n\n General Finnish ontology\n(finto.fi)" <<external_system>> as yso
+  rectangle "==Helmet\nevents\n\n Helsinki Metropolitan Area Libraries\n(helmet.fi)" <<external_system>> as helmet
+  rectangle "==Espoo\nevents\n\n Espoo city events\n(espoo.fi)" <<external_system>> as espoo
+  rectangle "==kulke\nevents\n\n City of Helsinki Cultural center events\n(City of Helsinki internal network)" <<external_system>> as kulke
+  rectangle "==tprek\nlocations\n\n Location registry\n(www.hel.fi/palvelukarttaws)" <<external_system>> as tprek
+  rectangle "==osoite\naddresses of locations\n\n Address registry\n(hri.fi)" <<external_system>> as osoite
+  rectangle "==Topics\ntopic keywords\n\n E.g. 'daycare and education' and 'housing and environment'\n(add_helfi_topics)" <<external_system>> as add_helfi_topics
+  rectangle "==Helsinki audiences\naudience keywords\n\n Target audiences\ne.g. 'Elderly' and 'Immigrant'\n(add_helsinki_audience)" <<external_system>> as add_helsinki_audience
+  rectangle "==Helsinki organisations\ndivisions\n\n City of Helsinki organisation divisions'\n(import_organisations)" <<external_system>> as import_organisations
+  rectangle "==geo_import\ndivision structure for places\n\n (geo_import)" <<external_system>> as geo_import
+}
+
+citizen - -> linkedevents : "===Browse events and places"
+
+citizen_auth - -> linkedevents : "===Browse and propose events and places"
+citizen_auth - -> tunnistamo : "===Authenticates"
+
+linkedevents -LEFT-> tunnistamo : "===Redirects users for authentication"
+
+admin -UP-> linkedevents : "===Manage events and places"
+admin -UP-> tunnistamo : "===Authenticates"
+
+linkedevents - -> data_sources : "===Imports data\n(events, locations, users, etc.)"
+
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 19:19:51 EEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_231-b11
+Operating System: Linux
+OS Version: 5.3.0-23-generic
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

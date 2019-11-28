@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1239px" preserveAspectRatio="none" style="width:868px;height:1239px;" version="1.1" viewBox="0 0 868 1239" width="868px" zoomAndPan="magnify"><defs/><g><!--cluster espooevents--><rect fill="#FFFFFF" height="1023.5" style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="570" x="272.5" y="195"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="516" y="209.9951">«boundary»</text><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="115" x="500" y="228.1484">espooevents</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="526.5" y="243.0605">[System]</text><!--entity espooevents_ui--><rect fill="#438DD5" height="115.4531" style="stroke: #3C7FC0; stroke-width: 1.5;" width="194" x="291.5" y="254"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="351.5" y="275.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="137" x="320" y="292.8203">espooevents-ui</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="331" y="307.7324">[React, JavaScript]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="390.5" y="323.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="170" x="301.5" y="339.8545">SPA running on browser,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="104" x="336.5" y="356.1514">served from S3</text><!--entity espooevents_proxy--><rect fill="#438DD5" height="131.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="219" x="281" y="522"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="353.5" y="543.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="172" x="304.5" y="560.8203">espooevents-proxy</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="43" x="369" y="575.7324">[nginx]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="392.5" y="591.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="172" x="302.5" y="607.8545">Serve SPA bundle, /static</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="301" y="624.1514">and /media from S3, route</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="199" x="291" y="640.4482">/auth and /api to api-gateway</text><!--entity espooevents_apigw--><rect fill="#438DD5" height="134.0781" style="stroke: #3C7FC0; stroke-width: 1.5;" width="217" x="315" y="807"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="386.5" y="828.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="154" x="346.5" y="845.8203">espooevents-api-</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="75" x="386" y="864.4453">gateway</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="130" x="358.5" y="879.3574">[Node.js, TypeScript]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="425.5" y="895.1826"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="197" x="325" y="911.4795">SAML authentication, routing</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="139" x="354" y="927.7764">to backend services</text><!--entity espooevents_s3--><path d="M655,536 C655,526 744.5,526 744.5,526 C744.5,526 834,526 834,536 L834,640.4531 C834,650.4531 744.5,650.4531 744.5,650.4531 C744.5,650.4531 655,650.4531 655,640.4531 L655,536 " fill="#438DD5" style="stroke: #3C7FC0; stroke-width: 1.5;"/><path d="M655,536 C655,546 744.5,546 744.5,546 C744.5,546 834,546 834,536 " fill="none" style="stroke: #3C7FC0; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="707.5" y="561.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="143" x="673" y="578.8203">espooevents-s3</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="26" x="731.5" y="593.7324">[S3]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="746.5" y="609.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="159" x="665" y="625.8545">SPA bundle, /static and</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="121" x="684" y="642.1514">/media resources</text><!--entity espooevents_api--><rect fill="#438DD5" height="131.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="188" x="609.5" y="808"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="666.5" y="829.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="147" x="630" y="846.8203">espooevents-api</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="651" y="861.7324">[Django, Python]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="705.5" y="877.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="164" x="619.5" y="893.8545">Aggregator, creator and</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="124" x="639.5" y="910.1514">publisher of event</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="665" y="926.4482">information</text><!--entity espooevents_db--><path d="M656.5,1133 C656.5,1123 745.5,1123 745.5,1123 C745.5,1123 834.5,1123 834.5,1133 L834.5,1188.5625 C834.5,1198.5625 745.5,1198.5625 745.5,1198.5625 C745.5,1198.5625 656.5,1198.5625 656.5,1188.5625 L656.5,1133 " fill="#438DD5" style="stroke: #3C7FC0; stroke-width: 1.5;"/><path d="M656.5,1133 C656.5,1143 745.5,1143 745.5,1143 C745.5,1143 834.5,1143 834.5,1133 " fill="none" style="stroke: #3C7FC0; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="708.5" y="1158.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="144" x="673.5" y="1175.8203">espooevents-db</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="158" x="666.5" y="1190.7324">[Postgres 10.8 AWS RDS]</text><!--entity espooevents_imports--><rect fill="#438DD5" height="99.1563" style="stroke: #3C7FC0; stroke-width: 1.5;" width="210" x="280.5" y="1111.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="348.5" y="1132.6387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="190" x="290.5" y="1150.3203">espooevents-imports</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="333" y="1165.2324">[Django, Python]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="387.5" y="1181.0576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="310" y="1197.3545">Run daily using cron?!</text><!--entity citizen--><rect fill="#08427B" height="117.7813" style="stroke: #073B6F; stroke-width: 1.5;" width="207" x="285" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="359.5" y="29.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="359" y="46.8203">Citizen</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="133" x="322" y="63.5889">(not authenticated)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="390.5" y="79.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="183" x="295" y="96.1826">Person interested in event</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="350" y="112.4795">information</text><!--entity admin--><rect fill="#08427B" height="85.1875" style="stroke: #073B6F; stroke-width: 1.5;" width="199" x="6" y="269"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="76.5" y="290.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="116" x="47.5" y="307.8203">Espoo official</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="107.5" y="324.5889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="16" y="340.8857">Employee of City of Espoo</text><!--entity data_sources--><rect fill="#999999" height="134.0781" style="stroke: #8A8A8A; stroke-width: 1.5;" width="139" x="9" y="1094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="21" y="1115.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="19" y="1132.8203">Data Sources</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="80.5" y="1149.5889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="29" x="64" y="1165.8857">YSO</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="54" y="1182.1826">Helmet</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="56.5" y="1198.4795">Espoo</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="12" x="72.5" y="1214.7764">...</text><!--entity espooad--><rect fill="#999999" height="52.5938" style="stroke: #8A8A8A; stroke-width: 1.5;" width="135" x="30" y="847.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="40" y="868.6387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="84" x="55.5" y="886.3203">Espoo AD</text><!--link citizen to espooevents_ui--><path d="M388.5,126.1866 C388.5,163.2469 388.5,210.9548 388.5,248.6826 " fill="none" id="citizen-&gt;espooevents_ui" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="388.5,253.7021,392.5,244.7021,388.5,248.7021,384.5,244.7021,388.5,253.7021" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="396.5" y="169.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="389.5" y="183.2715">[HTTPS]</text><!--link admin to espooevents_ui--><path d="M205.2752,311.5 C231.3834,311.5 259.5729,311.5 285.829,311.5 " fill="none" id="admin-&gt;espooevents_ui" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="291.0533,311.5,282.0533,307.5,286.0533,311.5,282.0533,315.5,291.0533,311.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="230.75" y="290.5669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="223.75" y="304.7715">[HTTPS]</text><!--link espooevents_ui to espooevents_proxy--><path d="M388.9168,369.1269 C389.2266,411.9503 389.6511,470.6377 389.9826,516.4627 " fill="none" id="espooevents_ui-&gt;espooevents_proxy" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="390.0204,521.702,393.955,512.6732,389.9841,516.7021,385.9552,512.7313,390.0204,521.702" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="397.5" y="443.0669">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="390.5" y="457.2715">[HTTPS]</text><!--link espooevents_proxy to espooevents_s3--><path d="M500.0835,588 C547.889,588 603.4084,588 649.4402,588 " fill="none" id="espooevents_proxy-&gt;espooevents_s3" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="654.719,588,645.719,584,649.719,588,645.719,592,654.719,588" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="518.5" y="525.0669">Fetch resources</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="545.5" y="539.2715">index.html</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="39" x="558" y="553.2402">/static</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="42" x="556.5" y="567.209">/media</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="41" x="557" y="581.1777">[HTTP]</text><!--link espooevents_proxy to espooevents_apigw--><path d="M398.1538,654.333 C403.2322,698.3457 409.8979,756.1152 415.119,801.3645 " fill="none" id="espooevents_proxy-&gt;espooevents_apigw" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="415.716,806.5389,418.6577,797.1396,415.1427,801.5719,410.7105,798.0569,415.716,806.5389" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76" x="409.5" y="728.0669">/auth, /api</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="41" x="427" y="742.2715">[HTTP]</text><!--link espooevents_apigw to espooevents_api--><path d="M532.1561,874 C555.8798,874 580.8693,874 604.2061,874 " fill="none" id="espooevents_apigw-&gt;espooevents_api" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="609.4714,874,600.4714,870,604.4714,874,600.4714,878,609.4714,874" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="28" x="556.75" y="853.0669">/api</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="41" x="550.25" y="867.2715">[HTTP]</text><!--link espooevents_api to espooevents_db--><path d="M713.1884,940.204 C721.1823,994.8293 732.2933,1070.7543 739.1832,1117.8351 " fill="none" id="espooevents_api-&gt;espooevents_db" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="739.9192,1122.8643,742.5738,1113.38,739.1952,1117.917,734.6582,1114.5384,739.9192,1122.8643" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="727.5" y="1015.0669">Reads and writes</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="757" y="1029.2715">[psycopg2]</text><!--reverse link espooad to espooevents_apigw--><path d="M170.18,874 C212.7663,874 267.3726,874 314.975,874 " fill="none" id="espooad&lt;-espooevents_apigw" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="165.0474,874,174.0474,878,170.0474,874,174.0474,870,165.0474,874" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="113" x="183.5" y="853.0669">Redirects /auth</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="42" x="219" y="867.2715">[SAML]</text><!--link espooevents_imports to espooevents_db--><path d="M490.5947,1161 C541.4585,1161 602.0346,1161 651.3703,1161 " fill="none" id="espooevents_imports-&gt;espooevents_db" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="656.4128,1161,647.4128,1157,651.4128,1161,647.4128,1165,656.4128,1161" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="509" y="1140.0669">Reads and writes</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="538.5" y="1154.2715">[psycopg2]</text><!--reverse link data_sources to espooevents_imports--><path d="M153.2479,1161 C191.4088,1161 238.4754,1161 280.239,1161 " fill="none" id="data_sources&lt;-espooevents_imports" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="148.1631,1161,157.1631,1165,153.1631,1161,157.1631,1157,148.1631,1161" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="96" x="166.25" y="1154.0669">Imports data</text><!--link admin to espooad--><path d="M104.0615,354.0408 C103.2916,380.38 102.5,414.9003 102.5,445.5 C102.5,445.5 102.5,445.5 102.5,730.5 C102.5,768.8696 100.6925,812.9752 99.251,842.0486 " fill="none" id="admin-&gt;espooad" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="98.9866,847.2976,103.4346,838.5104,99.2383,842.3039,95.4448,838.1076,98.9866,847.2976" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="103.5" y="585.5669">Authenticates</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85" x="112" y="599.7715">[SAML/HTTPS]</text><!--
+@startuml espooevents-container
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+rectangle "==Citizen\n(not authenticated)\n\n Person interested in event information" <<person>> as citizen
+rectangle "==Espoo official\n\n Employee of City of Espoo" <<person>> as admin
+
+rectangle "==espooevents\n<size:12>[System]</size>" <<boundary>> as espooevents {
+  rectangle "==espooevents-ui\n//<size:12>[React, JavaScript]</size>//\n\n SPA running on browser, served from S3" <<container>> as espooevents_ui
+
+  rectangle "==espooevents-proxy\n//<size:12>[nginx]</size>//\n\n Serve SPA bundle, /static and /media from S3, route\n/auth and /api to api-gateway" <<container>> as espooevents_proxy
+  rectangle "==espooevents-api-gateway\n//<size:12>[Node.js, TypeScript]</size>//\n\n SAML authentication, routing to backend services" <<container>> as espooevents_apigw
+
+  database "==espooevents-s3\n//<size:12>[S3]</size>//\n\n SPA bundle, /static and\n/media resources" <<container>> as espooevents_s3
+
+  rectangle "==espooevents-api\n//<size:12>[Django, Python]</size>//\n\n Aggregator, creator and publisher of event information" <<container>> as espooevents_api
+  database "==espooevents-db\n//<size:12>[Postgres 10.8 AWS RDS]</size>//" <<container>> as espooevents_db
+  rectangle "==espooevents-imports\n//<size:12>[Django, Python]</size>//\n\n Run daily using cron?!" <<container>> as espooevents_imports
+}
+
+rectangle "==Data Sources\n\n YSO\nHelmet\nEspoo\n..." <<external_system>> as data_sources
+rectangle "==Espoo AD" <<external_system>> as espooad
+
+citizen - -> espooevents_ui : "===Uses\n[HTTPS]"
+
+admin -RIGHT-> espooevents_ui : "===Uses\n[HTTPS]"
+
+espooevents_ui -DOWN-> espooevents_proxy : "===Uses\n[HTTPS]"
+espooevents_proxy -RIGHT-> espooevents_s3 : "===Fetch resources\nindex.html\n/static\n/media\n[HTTP]"
+espooevents_proxy - -> espooevents_apigw : "===/auth, /api\n[HTTP]"
+espooevents_apigw -RIGHT-> espooevents_api : "===/api\n[HTTP]"
+espooevents_api -DOWN-> espooevents_db : "===Reads and writes\n[psycopg2]"
+
+espooevents_apigw -LEFT-> espooad : "===Redirects /auth\n[SAML]"
+
+espooevents_imports -RIGHT-> espooevents_db : "===Reads and writes\n[psycopg2]"
+espooevents_imports -LEFT-> data_sources : "===Imports data"
+
+admin - -> espooad : "===Authenticates\n[SAML/HTTPS]"
+
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 19:19:51 EEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_231-b11
+Operating System: Linux
+OS Version: 5.3.0-23-generic
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="811px" preserveAspectRatio="none" style="width:1097px;height:811px;" version="1.1" viewBox="0 0 1097 811" width="1097px" zoomAndPan="magnify"><defs/><g><!--cluster data_sources--><rect fill="#FFFFFF" height="428" style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="682" x="404" y="372"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="703.5" y="386.9951">«boundary»</text><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="686" y="405.1484">Data sources</text><!--entity yso--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="191" x="447.5" y="425"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="485.5" y="446.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="37" x="524.5" y="463.8203">YSO</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="510.5" y="480.5889">concepts</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="545" y="496.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="171" x="457.5" y="513.1826">General Finnish ontology</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51" x="517.5" y="529.4795">(finto.fi)</text><!--entity helmet--><rect fill="#999999" height="134.0781" style="stroke: #8A8A8A; stroke-width: 1.5;" width="202" x="674" y="417"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="717.5" y="438.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="744" y="455.8203">Helmet</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="751.5" y="472.5889">events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="777" y="488.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="178" x="684" y="505.1826">Helsinki Metropolitan Area</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="746.5" y="521.4795">Libraries</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="69" x="740.5" y="537.7764">(helmet.fi)</text><!--entity espoo--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="142" x="911" y="425"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="924.5" y="446.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="955.5" y="463.8203">Espoo</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="958.5" y="480.5889">events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="984" y="496.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="122" x="921" y="513.1826">Espoo city events</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="949.5" y="529.4795">(espoo.fi)</text><!--entity tprek--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="210" x="412" y="674"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="459.5" y="695.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="49" x="492.5" y="712.8203">tprek</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="62" x="486" y="729.5889">locations</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="519" y="745.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="113" x="460.5" y="762.1826">Location registry</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="190" x="422" y="778.4795">(www.hel.fi/palvelukarttaws)</text><!--entity osoite--><rect fill="#999999" height="117.7813" style="stroke: #8A8A8A; stroke-width: 1.5;" width="176" x="657" y="674"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="687.5" y="695.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="55" x="717.5" y="712.8203">osoite</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="156" x="667" y="729.5889">addresses of locations</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="747" y="745.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="689" y="762.1826">Address registry</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="726" y="778.4795">(hri.fi)</text><!--entity geo_import--><rect fill="#999999" height="101.4844" style="stroke: #8A8A8A; stroke-width: 1.5;" width="209" x="868.5" y="682.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="915.5" y="703.6387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="99" x="923.5" y="721.3203">geo_import</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="189" x="878.5" y="738.0889">division structure for places</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="975" y="754.3857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="88" x="929" y="770.6826">(geo_import)</text><!--entity citizen--><rect fill="#08427B" height="117.7813" style="stroke: #073B6F; stroke-width: 1.5;" width="207" x="300.5" y="8"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="375" y="29.1387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="374.5" y="46.8203">Citizen</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="133" x="337.5" y="63.5889">(not authenticated)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="406" y="79.8857"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="183" x="310.5" y="96.1826">Person interested in event</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="365.5" y="112.4795">information</text><!--entity admin--><rect fill="#08427B" height="85.1875" style="stroke: #073B6F; stroke-width: 1.5;" width="199" x="52.5" y="441.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="123" y="462.6387">«person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="116" x="94" y="480.3203">Espoo official</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="154" y="497.0889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="62.5" y="513.3857">Employee of City of Espoo</text><!--entity espooevents--><rect fill="#1168BD" height="52.5938" style="stroke: #3C7FC0; stroke-width: 1.5;" width="135" x="336.5" y="227"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="375" y="248.1387">«system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="115" x="346.5" y="265.8203">espooevents</text><!--entity espooad--><rect fill="#999999" height="71.2188" style="stroke: #8A8A8A; stroke-width: 1.5;" width="148" x="6" y="218"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="22.5" y="239.1387">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="84" x="35" y="256.8203">Espoo AD</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="16" y="275.4453">authentication</text><!--link citizen to espooevents--><path d="M404,126.0098 C404,157.6244 404,195.3366 404,221.5058 " fill="none" id="citizen-&gt;espooevents" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="404,226.5805,408,217.5805,404,221.5805,400,217.5805,404,226.5805" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="405" y="169.0669">Browse events and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="454" y="184.1997">places</text><!--reverse link espooad to espooevents--><path d="M159.5278,253.5 C213.7714,253.5 284.8383,253.5 336.3587,253.5 " fill="none" id="espooad&lt;-espooevents" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="154.3321,253.5,163.3321,257.5,159.3321,253.5,163.3321,249.5,154.3321,253.5" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="172.25" y="231.5669">Redirects users for</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="106" x="192.25" y="246.6997">authentication</text><!--reverse link espooevents to admin--><path d="M331.4947,273.6293 C303.7711,283.9171 273.2601,298.6612 250,319 C211.751,352.4453 184.2956,404.5959 168.3474,441.2978 " fill="none" id="espooevents&lt;-admin" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="336.2763,271.8884,326.4509,271.2091,331.5781,273.5991,329.188,278.7263,336.2763,271.8884" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="146" x="251" y="338.5669">Manage events and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="300" y="353.6997">places</text><!--reverse link espooad to admin--><path d="M73.1,294.0271 C70.9255,315.2562 70.5347,341.4567 77,364 C84.992,391.8664 101.5511,419.5391 117.0815,441.2761 " fill="none" id="espooad&lt;-admin" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="73.6548,289.0217,68.6876,297.5262,73.1039,293.9913,76.6389,298.4076,73.6548,289.0217" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="78" y="346.0669">Authenticates</text><!--link espooevents to data_sources--><path d="M404.9334,280.3924 C405.4445,295.1182 406.1225,314.6538 406.8566,335.8056 C407.2237,346.3816 407.6047,357.3615 407.986,368.3464 C408.0098,369.033 408.0336,369.7196 408.0575,370.4061 C408.0694,370.7493 408.0813,371.0925 408.0932,371.4357 " fill="none" id="espooevents-&gt;data_sources" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="408.0932,371.4357,411.7786,362.3024,407.9198,366.4387,403.7834,362.5799,408.0932,371.4357" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="96" x="420" y="332.0669">Imports data</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="116" x="408" y="346.2715">(events, locations,</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="72" x="432" y="360.2402">users, etc.)</text><!--link yso to helmet--><!--link helmet to espoo--><!--link yso to tprek--><!--link tprek to osoite--><!--link osoite to geo_import--><!--
+@startuml espooevents-context
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+rectangle "==Citizen\n(not authenticated)\n\n Person interested in event information" <<person>> as citizen
+rectangle "==Espoo official\n\n Employee of City of Espoo" <<person>> as admin
+
+rectangle "==espooevents" <<system>> as espooevents
+rectangle "==Espoo AD authentication" <<external_system>> as espooad
+
+rectangle "==Data sources" <<boundary>> as data_sources {
+  rectangle "==YSO\nconcepts\n\n General Finnish ontology\n(finto.fi)" <<external_system>> as yso
+  rectangle "==Helmet\nevents\n\n Helsinki Metropolitan Area Libraries\n(helmet.fi)" <<external_system>> as helmet
+  rectangle "==Espoo\nevents\n\n Espoo city events\n(espoo.fi)" <<external_system>> as espoo
+  rectangle "==tprek\nlocations\n\n Location registry\n(www.hel.fi/palvelukarttaws)" <<external_system>> as tprek
+  rectangle "==osoite\naddresses of locations\n\n Address registry\n(hri.fi)" <<external_system>> as osoite
+  rectangle "==geo_import\ndivision structure for places\n\n (geo_import)" <<external_system>> as geo_import
+}
+
+citizen - -> espooevents : "===Browse events and places"
+
+espooevents -LEFT-> espooad : "===Redirects users for authentication"
+
+admin -UP-> espooevents : "===Manage events and places"
+admin -UP-> espooad : "===Authenticates"
+
+espooevents - -> data_sources : "===Imports data\n(events, locations, users, etc.)"
+
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 19:19:51 EEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_231-b11
+Operating System: Linux
+OS Version: 5.3.0-23-generic
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
